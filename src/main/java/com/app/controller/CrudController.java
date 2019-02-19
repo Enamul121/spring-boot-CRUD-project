@@ -18,25 +18,6 @@ public class CrudController {
     ArticleService articleService;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     @GetMapping("/")
     public ModelAndView wc(){
         ModelAndView modelAndView = new ModelAndView("wc");
