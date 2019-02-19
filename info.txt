@@ -1,0 +1,5 @@
+Spring Boot CRUD project :
+
+JPA
+MYSQL
+JSP
