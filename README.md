@@ -1,5 +1,7 @@
 # spring-boot-CRUD-project
   
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
   spring boot CRUD project using JPA,MYSQL and JSP.
   First create Database `crud_101` in mysql.
   
